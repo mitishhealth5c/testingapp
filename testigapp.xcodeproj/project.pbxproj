@@ -18,6 +18,7 @@
 		AB8432B61B39782E00BC8CB7 /* careconnect.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432B51B39782E00BC8CB7 /* careconnect.m */; };
 		AB8432B91B397A0A00BC8CB7 /* careconnect2.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432B81B397A0A00BC8CB7 /* careconnect2.m */; };
 		AB8432BC1B397A9B00BC8CB7 /* careconnect3.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432BB1B397A9B00BC8CB7 /* careconnect3.m */; };
+		AB8432BF1B397C9C00BC8CB7 /* wertyu.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432BE1B397C9C00BC8CB7 /* wertyu.m */; };
 		AB9FFE491B397BF500984F03 /* hhh.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9FFE481B397BF500984F03 /* hhh.m */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,8 @@
 		AB8432B81B397A0A00BC8CB7 /* careconnect2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = careconnect2.m; sourceTree = "<group>"; };
 		AB8432BA1B397A9B00BC8CB7 /* careconnect3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = careconnect3.h; sourceTree = "<group>"; };
 		AB8432BB1B397A9B00BC8CB7 /* careconnect3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = careconnect3.m; sourceTree = "<group>"; };
+		AB8432BD1B397C9C00BC8CB7 /* wertyu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wertyu.h; sourceTree = "<group>"; };
+		AB8432BE1B397C9C00BC8CB7 /* wertyu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wertyu.m; sourceTree = "<group>"; };
 		AB9FFE471B397BF500984F03 /* hhh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hhh.h; sourceTree = "<group>"; };
 		AB9FFE481B397BF500984F03 /* hhh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hhh.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -105,6 +108,8 @@
 				AB8432B51B39782E00BC8CB7 /* careconnect.m */,
 				AB8432981B39773500BC8CB7 /* Main.storyboard */,
 				AB8432BA1B397A9B00BC8CB7 /* careconnect3.h */,
+				AB8432BD1B397C9C00BC8CB7 /* wertyu.h */,
+				AB8432BE1B397C9C00BC8CB7 /* wertyu.m */,
 				AB8432BB1B397A9B00BC8CB7 /* careconnect3.m */,
 				AB9FFE471B397BF500984F03 /* hhh.h */,
 				AB9FFE481B397BF500984F03 /* hhh.m */,
@@ -247,6 +252,7 @@
 				AB8432911B39773500BC8CB7 /* AppDelegate.m in Sources */,
 				AB8432971B39773500BC8CB7 /* ViewController.m in Sources */,
 				AB8432B61B39782E00BC8CB7 /* careconnect.m in Sources */,
+				AB8432BF1B397C9C00BC8CB7 /* wertyu.m in Sources */,
 				AB8432BC1B397A9B00BC8CB7 /* careconnect3.m in Sources */,
 				AB8432B91B397A0A00BC8CB7 /* careconnect2.m in Sources */,
 				AB84328E1B39773500BC8CB7 /* main.m in Sources */,
