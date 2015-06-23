@@ -16,6 +16,7 @@
 		AB84329F1B39773500BC8CB7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB84329D1B39773500BC8CB7 /* LaunchScreen.xib */; };
 		AB8432AB1B39773500BC8CB7 /* testigappTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432AA1B39773500BC8CB7 /* testigappTests.m */; };
 		AB8432B61B39782E00BC8CB7 /* careconnect.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432B51B39782E00BC8CB7 /* careconnect.m */; };
+		AB8432B91B397A0A00BC8CB7 /* careconnect2.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432B81B397A0A00BC8CB7 /* careconnect2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,8 @@
 		AB8432AA1B39773500BC8CB7 /* testigappTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testigappTests.m; sourceTree = "<group>"; };
 		AB8432B41B39782E00BC8CB7 /* careconnect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = careconnect.h; path = ../careconnect.h; sourceTree = "<group>"; };
 		AB8432B51B39782E00BC8CB7 /* careconnect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = careconnect.m; path = ../careconnect.m; sourceTree = "<group>"; };
+		AB8432B71B397A0A00BC8CB7 /* careconnect2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = careconnect2.h; sourceTree = "<group>"; };
+		AB8432B81B397A0A00BC8CB7 /* careconnect2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = careconnect2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				AB84328F1B39773500BC8CB7 /* AppDelegate.h */,
 				AB8432901B39773500BC8CB7 /* AppDelegate.m */,
 				AB8432951B39773500BC8CB7 /* ViewController.h */,
+				AB8432B71B397A0A00BC8CB7 /* careconnect2.h */,
+				AB8432B81B397A0A00BC8CB7 /* careconnect2.m */,
 				AB8432961B39773500BC8CB7 /* ViewController.m */,
 				AB8432B41B39782E00BC8CB7 /* careconnect.h */,
 				AB8432B51B39782E00BC8CB7 /* careconnect.m */,
@@ -231,6 +236,7 @@
 				AB8432911B39773500BC8CB7 /* AppDelegate.m in Sources */,
 				AB8432971B39773500BC8CB7 /* ViewController.m in Sources */,
 				AB8432B61B39782E00BC8CB7 /* careconnect.m in Sources */,
+				AB8432B91B397A0A00BC8CB7 /* careconnect2.m in Sources */,
 				AB84328E1B39773500BC8CB7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
