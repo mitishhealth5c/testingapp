@@ -15,6 +15,7 @@
 		AB84329C1B39773500BC8CB7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB84329B1B39773500BC8CB7 /* Images.xcassets */; };
 		AB84329F1B39773500BC8CB7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB84329D1B39773500BC8CB7 /* LaunchScreen.xib */; };
 		AB8432AB1B39773500BC8CB7 /* testigappTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432AA1B39773500BC8CB7 /* testigappTests.m */; };
+		AB8432B61B39782E00BC8CB7 /* careconnect.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8432B51B39782E00BC8CB7 /* careconnect.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,8 @@
 		AB8432A41B39773500BC8CB7 /* testigappTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testigappTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8432A91B39773500BC8CB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB8432AA1B39773500BC8CB7 /* testigappTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testigappTests.m; sourceTree = "<group>"; };
+		AB8432B41B39782E00BC8CB7 /* careconnect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = careconnect.h; path = ../careconnect.h; sourceTree = "<group>"; };
+		AB8432B51B39782E00BC8CB7 /* careconnect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = careconnect.m; path = ../careconnect.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				AB8432901B39773500BC8CB7 /* AppDelegate.m */,
 				AB8432951B39773500BC8CB7 /* ViewController.h */,
 				AB8432961B39773500BC8CB7 /* ViewController.m */,
+				AB8432B41B39782E00BC8CB7 /* careconnect.h */,
+				AB8432B51B39782E00BC8CB7 /* careconnect.m */,
 				AB8432981B39773500BC8CB7 /* Main.storyboard */,
 				AB84329B1B39773500BC8CB7 /* Images.xcassets */,
 				AB84329D1B39773500BC8CB7 /* LaunchScreen.xib */,
@@ -225,6 +230,7 @@
 				AB8432941B39773500BC8CB7 /* testigapp.xcdatamodeld in Sources */,
 				AB8432911B39773500BC8CB7 /* AppDelegate.m in Sources */,
 				AB8432971B39773500BC8CB7 /* ViewController.m in Sources */,
+				AB8432B61B39782E00BC8CB7 /* careconnect.m in Sources */,
 				AB84328E1B39773500BC8CB7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
