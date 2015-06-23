@@ -15,6 +15,9 @@
 @implementation hhh
 
 - (void)viewDidLoad {
+    
+    
+    NSLog(@"Hi GK vallllyyyy");
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 }
