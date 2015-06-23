@@ -10,6 +10,9 @@
 #import <CoreData/CoreData.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+{
+    NSString *str;
+}
 
 @property (strong, nonatomic) UIWindow *window;
 
